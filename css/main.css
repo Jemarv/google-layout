@@ -24,6 +24,13 @@ section {
     align-items: center;
 }
 
+section span {
+    /* background-color: lightblue; */
+    width: 200px;
+    height: 50px;
+    position: absolute;
+}
+
 .logo {
     background-color: rgb(37, 37, 37);
     width: 75vw;
